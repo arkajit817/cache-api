@@ -4,6 +4,8 @@ const bodyparser = require('body-parser');
 
 
 const cacheroute = require('./routes/cacheroute');
+const config = require('./config/database');
+
 
 
 
